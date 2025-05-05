@@ -7,9 +7,10 @@ tags: [blockchain, cryptocurrency, web3, decentralization]
 pin: false
 math: true
 mermaid: true
-image:
-  path: /assets/img/posts/blockchain-header.jpg
-  alt: Blockchain Technology Concept
+# Removing image reference to avoid HTML proofer errors
+# image:
+#   path: /assets/img/posts/blockchain-header.jpg
+#   alt: Blockchain Technology Concept
 ---
 
 ## What is Blockchain Technology?
