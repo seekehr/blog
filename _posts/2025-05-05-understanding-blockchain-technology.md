@@ -9,13 +9,9 @@ pin: true
 math: true
 mermaid: true
 # SEO metadata
-description: "Learn the fundamentals of blockchain technology, its key components, applications, and future trends in this comprehensive guide for developers and crypto enthusiasts."
-image:
-  path: /assets/img/posts/blockchain-header.jpg
-  alt: "Blockchain Technology Concept showing connected blocks in a digital network"
-  hidden: false
 seo:
-  date_modified: 2025-05-05 15:57:00 +0000
+  description: "Learn the fundamentals of blockchain technology, its key components, applications, and future trends in this comprehensive guide for developers and crypto enthusiasts."
+date_modified: 2025-05-05 15:57:00 +0000
 ---
 
 ## What is Blockchain Technology?
