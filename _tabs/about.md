@@ -4,21 +4,19 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-# About Me
-
-## Jawad Ali
+# Jawad Ali
 
 A fullstack and systems developer with love for crypto and anonymity.
 
-## Skills
+# Skills
 
-### Programming Languages
+## Programming Languages
 - JavaScript/TypeScript
 - Python
 - Go
 - PHP
 
-### Technologies & Tools
+## Technologies & Tools
 - Node.js
 - React
 - MERN 
@@ -33,7 +31,7 @@ I believe in writing clean, maintainable code and constantly expanding my knowle
 
 I enjoy tackling complex problems and breaking them down into simple, elegant solutions. My approach to development combines technical expertise with a focus on business objectives.
 
-## Connect With Me
+## Connect Me
 
 Feel free to reach out through my discord:
 - [Discord](https://discord.gg/9fPMWtMDx2)
