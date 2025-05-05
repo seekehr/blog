@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Sitemap: https://seekehr.github.io/blog/sitemap.xml
+
+# Disallow specific paths
+Disallow: /assets/js/
+Disallow: /assets/css/
+Disallow: /assets/lib/ 
