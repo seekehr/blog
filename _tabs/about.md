@@ -31,7 +31,7 @@ I believe in writing clean, maintainable code and constantly expanding my knowle
 
 I enjoy tackling complex problems and breaking them down into simple, elegant solutions. My approach to development combines technical expertise with a focus on business objectives.
 
-## Connect Me
+## Connect With Me
 
 Feel free to reach out through my discord:
 - [Discord](https://discord.gg/9fPMWtMDx2)
