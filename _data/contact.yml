@@ -15,6 +15,10 @@
 - type: discord
   icon: "fas fa-discord"
   url: "https://discord.gg/9fPMWtMDx2"
+
+- type: telegram
+  icon: "fas fa-telegram"
+  url: "https://t.me/Seekehr"
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
