@@ -1,10 +1,11 @@
 ---
 title: Understanding Blockchain Technology
-author: Jawad Ali
-date: 2023-07-20 10:30:00 +0000
+author: Seeker
+by: Seeker
+date: 2025-05-05 15:57:00 +0000
 categories: [Technology, Blockchain]
 tags: [blockchain, cryptocurrency, web3, decentralization]
-pin: false
+pin: true
 math: true
 mermaid: true
 # Removing image reference to avoid HTML proofer errors
