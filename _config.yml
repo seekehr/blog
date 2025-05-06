@@ -16,7 +16,7 @@ timezone:
 
 title: Seeker's Blogs # the main title
 
-tagline: A blogpage for a fullstack and systems developer and crypto enthusiast # it will display as the subtitle
+tagline: A blogpage for a full-stack web and systems developer and crypto enthusiast # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Explore insights, tutorials, and thoughts on fullstack development, systems programming, and cryptocurrency from Seekehr. Discover practical code examples, industry best practices, and emerging trends in blockchain technology.
