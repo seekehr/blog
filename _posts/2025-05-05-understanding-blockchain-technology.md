@@ -10,6 +10,7 @@ math: true
 mermaid: true
 # SEO metadata
 seo:
+  title: Blockchain Technology - What is it?
   description: "Learn the fundamentals of blockchain technology, its key components, applications, and future trends in this comprehensive guide for developers and crypto enthusiasts."
 date_modified: 2025-05-05 15:57:00 +0000
 ---
