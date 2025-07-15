@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-# Jawad Ali
+# Seeker (Jawad)
 
 A fullstack and systems developer with love for crypto and anonymity.
 
@@ -17,19 +17,13 @@ A fullstack and systems developer with love for crypto and anonymity.
 - PHP
 
 ## Technologies & Tools
-- Node.js
+- Golang (Echo <3)
 - React
-- MERN 
-- Git & GitHub
-- Docker
-- Database Systems (SQL, MySQL)
-- Cloud Platforms like AWS
+- NodeJS/Typescript
 
 ## Professional Philosophy
 
-I believe in writing clean, maintainable code and constantly expanding my knowledge of new technologies. I'm passionate about creating software that not only functions well but also provides an excellent user experience.
-
-I enjoy tackling complex problems and breaking them down into simple, elegant solutions. My approach to development combines technical expertise with a focus on business objectives.
+Hey. Just 2 words for this: I like coding as a passion regardless of commercial value, and I believe that a customer should get the value they paid for. That's it.
 
 ## Connect With Me
 
